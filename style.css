@@ -1,0 +1,73 @@
+.stApp {
+  background-color: #a7d8ff;
+}
+
+h1 {
+  color: #002b5b !important;
+  font-family: Inter !important;
+  text-align: center !important;
+}
+
+h2 {
+  color: #002b5b !important;
+  font-family: Inter !important;
+  font-size: 36px !important;
+}
+
+h3 {
+  color: #002b5b !important;
+  font-family: Inter !important;
+  font-size: 28px !important;
+}
+
+p {
+  color: #002b5b !important;
+  font-family: Inter !important;
+  font-size: 20px !important;
+}
+
+hr {
+  border-color: #002b5b !important;
+}
+
+.stTextInput input {
+  color: #a7d8ff !important;
+  font-family: Inter !important;
+  font-size: 20px !important;
+  background-color: #002b5b !important;
+  border: 2px solid #002b5b !important;
+}
+
+.stButton > button,
+.stButton > button * {
+  background-color: #002b5b !important;
+  color: #a7d8ff !important;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 20px;
+  font-family: Inter !important;
+}
+
+.stTextArea textarea {
+  color: #a7d8ff !important;
+  font-family: Inter !important;
+  font-size: 20px !important;
+  background-color: #002b5b !important;
+  border: 2px solid #002b5b !important;
+}
+
+[data-testid="stSidebar"] {
+  background-color: #002b5b !important;
+}
+
+[data-testid="stSidebar"] h3 {
+  color: #a7d8ff !important;
+  font-family: Inter !important;
+  font-size: 30px !important;
+}
+
+[data-testid="stSidebar"] p {
+  color: #a7d8ff !important;
+  font-size: 20px !important;
+  font-family: Inter !important;
+}
